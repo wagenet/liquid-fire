@@ -1,1 +1,2 @@
-export { StaticOutlet as default } from "liquid-fire/ember-internals";
+import { StaticOutlet } from "liquid-fire/ember-internals";
+export default StaticOutlet;
